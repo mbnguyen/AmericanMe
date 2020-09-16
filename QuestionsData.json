@@ -1,0 +1,56 @@
+[
+	{
+		"question": "What is the supreme law of the land?",
+		"answers": ["The Constitution"],
+		"answerKeys": {
+			"0": ["constitution"]
+		},
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What does the Constitution do?",
+		"answers": [
+			"Sets up the government",
+			"Defines the government",
+			"Protects basic rights of Americans"
+		],
+		"answerKeys": {
+			"0": ["sets", "set", "up", "government"],
+			"1": ["defines", "define", "government"],
+			"2": ["protects", "protect", "rights", "right", "americans", "american", "citizen", "citizens"]
+		},
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+		"answers": [
+			"We the People"
+		],
+		"answerKeys": {
+			"0": ["we", "people"]
+		},
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What is an amendment?",
+		"answers": [
+			"A change (to the Constitution)",
+			"An addition (to the Constitution)"
+		],
+		"answerKeys": {
+			"0": ["change"],
+			"1": ["addition"]
+		},
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What do we call the first ten amendments to the Constitution?",
+		"answers": [
+			"The Bill of Rights"
+		],
+		"answerKeys": {
+			"0": ["bill", "rights", "rights"]
+		},
+		"numberAnswerNeed": 1
+	}
+]
