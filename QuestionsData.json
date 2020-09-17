@@ -2,9 +2,12 @@
 	{
 		"question": "What is the supreme law of the land?",
 		"answers": ["The Constitution"],
-		"answerKeys": {
-			"0": [1, "constitution"]
-		},
+		"answerKeys": [
+			["constitution"]
+		],
+		"answerKeysNeeded": [
+			1
+		],
 		"numberAnswerNeed": 1
 	},
 	{
@@ -14,11 +17,16 @@
 			"Defines the government",
 			"Protects basic rights of Americans"
 		],
-		"answerKeys": {
-			"0": [3, "sets", "set", "up", "government"],
-			"1": [2, "defines", "define", "government"],
-			"2": [3, "protects", "protect", "rights", "right", "americans", "american", "citizen", "citizens"]
-		},
+		"answerKeys": [
+			["sets", "set", "up", "government"],
+			["defines", "define", "government"],
+			["protects", "protect", "rights", "right", "americans", "american", "citizen", "citizens"]
+		],
+		"answerKeysNeeded": [
+			3,
+			2,
+			3
+		],
 		"numberAnswerNeed": 1
 	},
 	{
@@ -26,9 +34,12 @@
 		"answers": [
 			"We the People"
 		],
-		"answerKeys": {
-			"0": [2, "we", "people"]
-		},
+		"answerKeys": [
+			["we", "people"]
+		],
+		"answerKeysNeeded": [
+			2
+		],
 		"numberAnswerNeed": 1
 	},
 	{
@@ -37,10 +48,14 @@
 			"A change (to the Constitution)",
 			"An addition (to the Constitution)"
 		],
-		"answerKeys": {
-			"0": [1, "change"],
-			"1": [1, "addition"]
-		},
+		"answerKeys": [
+			["change"],
+			["addition"]
+		],
+		"answerKeysNeeded": [
+			1,
+			1
+		],
 		"numberAnswerNeed": 1
 	},
 	{
@@ -48,9 +63,12 @@
 		"answers": [
 			"The Bill of Rights"
 		],
-		"answerKeys": {
-			"0": [2, "bill", "rights", "rights"]
-		},
+		"answerKeys": [
+			["bill", "rights", "rights"]
+		],
+		"answerKeysNeeded": [
+			2
+		],
 		"numberAnswerNeed": 1
 	}
 ]
