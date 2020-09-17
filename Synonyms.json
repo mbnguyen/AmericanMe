@@ -1,13 +1,15 @@
 {
-	"constitution": ["constitutions"],
-	"sets": ["set"],
-	"government": ["governments"],
-	"defines": ["define", "defined"],
-	"protects": ["protect", "protected"],
-	"basic": ["basics"],
-	"rights": ["right"],
-	"americans": ["american", "america", "citizen", "citizens"],
-	"change": ["changes"],
-	"addition": ["additions"],
-	"bill": ["bills"]
+	"synonymsArr": {
+		"constitution": ["constitutions"],
+		"sets": ["set"],
+		"government": ["governments"],
+		"defines": ["define", "defined"],
+		"protects": ["protect", "protected"],
+		"basic": ["basics"],
+		"rights": ["right"],
+		"americans": ["american", "america", "citizen", "citizens"],
+		"change": ["changes"],
+		"addition": ["additions"],
+		"bill": ["bills"]
+	}
 }
