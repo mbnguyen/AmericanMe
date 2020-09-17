@@ -5,9 +5,6 @@
 		"answerKeys": [
 			["constitution"]
 		],
-		"answerKeysNeeded": [
-			1
-		],
 		"numberAnswerNeed": 1
 	},
 	{
@@ -18,14 +15,9 @@
 			"Protects basic rights of Americans"
 		],
 		"answerKeys": [
-			["sets", "set", "up", "government"],
-			["defines", "define", "government"],
-			["protects", "protect", "rights", "right", "americans", "american", "citizen", "citizens"]
-		],
-		"answerKeysNeeded": [
-			3,
-			2,
-			3
+			["sets", "up", "government"],
+			["defines", "government"],
+			["protects","basic", "rights", "americans"]
 		],
 		"numberAnswerNeed": 1
 	},
@@ -35,10 +27,7 @@
 			"We the People"
 		],
 		"answerKeys": [
-			["we", "people"]
-		],
-		"answerKeysNeeded": [
-			2
+			["we", "the", "people"]
 		],
 		"numberAnswerNeed": 1
 	},
@@ -49,12 +38,8 @@
 			"An addition (to the Constitution)"
 		],
 		"answerKeys": [
-			["change"],
-			["addition"]
-		],
-		"answerKeysNeeded": [
-			1,
-			1
+			["change", "constitution"],
+			["addition", "constitution"]
 		],
 		"numberAnswerNeed": 1
 	},
@@ -64,10 +49,7 @@
 			"The Bill of Rights"
 		],
 		"answerKeys": [
-			["bill", "rights", "rights"]
-		],
-		"answerKeysNeeded": [
-			2
+			["bill", "rights"]
 		],
 		"numberAnswerNeed": 1
 	}
