@@ -3,7 +3,7 @@
 		"question": "What is the supreme law of the land?",
 		"answers": ["The Constitution"],
 		"answerKeys": {
-			"0": ["constitution"]
+			"0": [1, "constitution"]
 		},
 		"numberAnswerNeed": 1
 	},
@@ -15,9 +15,9 @@
 			"Protects basic rights of Americans"
 		],
 		"answerKeys": {
-			"0": ["sets", "set", "up", "government"],
-			"1": ["defines", "define", "government"],
-			"2": ["protects", "protect", "rights", "right", "americans", "american", "citizen", "citizens"]
+			"0": [3, "sets", "set", "up", "government"],
+			"1": [2, "defines", "define", "government"],
+			"2": [3, "protects", "protect", "rights", "right", "americans", "american", "citizen", "citizens"]
 		},
 		"numberAnswerNeed": 1
 	},
@@ -27,7 +27,7 @@
 			"We the People"
 		],
 		"answerKeys": {
-			"0": ["we", "people"]
+			"0": [2, "we", "people"]
 		},
 		"numberAnswerNeed": 1
 	},
@@ -38,8 +38,8 @@
 			"An addition (to the Constitution)"
 		],
 		"answerKeys": {
-			"0": ["change"],
-			"1": ["addition"]
+			"0": [1, "change"],
+			"1": [1, "addition"]
 		},
 		"numberAnswerNeed": 1
 	},
@@ -49,7 +49,7 @@
 			"The Bill of Rights"
 		],
 		"answerKeys": {
-			"0": ["bill", "rights", "rights"]
+			"0": [2, "bill", "rights", "rights"]
 		},
 		"numberAnswerNeed": 1
 	}
