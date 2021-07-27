@@ -1,0 +1,31 @@
+{
+	"images": {
+		"supreme-court": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fsupreme-court.png?alt=media&token=2ef9b36b-4a3a-4b96-af9f-6b55090cc361", 
+			"Flat Icons"],
+
+		"land": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fland.png?alt=media&token=23ec48cc-55f0-411f-bd87-8880e786c894",
+			"Freepik"],
+
+		"constitution": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fconstitution.png?alt=media&token=e74c5394-3dc6-4d09-a796-e3b4a3a98763",
+			"monkik"],
+
+		"set-up": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fset-up.png?alt=media&token=9d844c0d-a357-49e9-bb57-49f97dfd3a3c",
+			"Freepik"],
+
+		"define": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fdefine.png?alt=media&token=561fffd7-c3d8-43d3-8cb9-c8b69b5dd279", 
+			"Flat Icons"],
+
+		"government": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fgovernment.png?alt=media&token=6ce4585f-61b7-44e3-b18c-247654a4b890",
+			"Freepik"],
+
+		"protect": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Fprotect.png?alt=media&token=c77cea24-22d9-4f30-b15f-f6b85c39057c",
+			"Freepik"],
+
+		"rights": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Frights.png?alt=media&token=62bbdf9b-23f7-4b9f-98de-0ea239a8100a",
+			"Freepik"],
+
+		"american": ["https://firebasestorage.googleapis.com/v0/b/america-me.appspot.com/o/Images%2Famerican.png?alt=media&token=099fb3e9-7384-4dce-bce5-cf5b027c5f2e",
+			"Freepik"]
+
+	}
+}

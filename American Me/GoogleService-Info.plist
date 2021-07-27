@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>95053315744-bg6nrj10n7peji5ru93tglcnl2203bqt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.95053315744-bg6nrj10n7peji5ru93tglcnl2203bqt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2HjigPPQXWVmb2GBRfciIJ8AkYPdrDxo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>95053315744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MinhNguyen.American-Me</string>
+	<key>PROJECT_ID</key>
+	<string>america-me</string>
+	<key>STORAGE_BUCKET</key>
+	<string>america-me.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:95053315744:ios:b4aea8fc011830c5f513c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://america-me.firebaseio.com</string>
+</dict>
+</plist>

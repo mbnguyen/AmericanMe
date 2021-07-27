@@ -1,0 +1,150 @@
+[
+	{
+		"question": "What is the supreme law of the land?",
+		"answers": ["The Constitution"],
+		"answerKeys": [
+			["constitution"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What does the Constitution do?",
+		"answers": [
+			"Sets up the government",
+			"Defines the government",
+			"Protects basic rights of Americans"
+		],
+		"answerKeys": [
+			["sets", "up", "government"],
+			["defines", "government"],
+			["protects","basic", "rights", "americans"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+		"answers": [
+			"We the People"
+		],
+		"answerKeys": [
+			["we", "the", "people"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What is an amendment?",
+		"answers": [
+			"A change (to the Constitution)",
+			"An addition (to the Constitution)"
+		],
+		"answerKeys": [
+			["change", "constitution"],
+			["addition", "constitution"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What do we call the first ten amendments to the Constitution?",
+		"answers": [
+			"The Bill of Rights"
+		],
+		"answerKeys": [
+			["bill", "rights"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What is one right or freedom from the First Amendment?",
+		"answers": [
+			"Speech",
+			"Religion",
+			"Assembly",
+			"Press",
+			"Petition the government"
+		],
+		"answerKeys": [
+			["speech"],
+			["religion"],
+			["assembly"],
+			["press"],
+			["petition",  "government"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "How many amendments does the Constitution have?",
+		"answers": [
+			"twenty-seven (27)"
+		],
+		"answerKeys": [
+			["twenty-seven"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What did the Declaration of Independence do?",
+		"answers": [
+			"Announced our independence (from Great Britain)",
+			"Declared our independence (from Great Britain)",
+			"Said that the United States is free (from Great Britain)"
+		],
+		"answerKeys": [
+			["announced", "independence"],
+			["declared", "independence"],
+			["said", "united states", "free"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What are two rights in the Declaration of Independence?",
+		"answers": [
+			"Life",
+			"Liberty",
+			"Pursuit of happiness"
+		],
+		"answerKeys": [
+			["life"],
+			["liberty"],
+			["pursuit", "happiness"]
+		],
+		"numberAnswerNeed": 2
+	},
+	{
+		"question": "What is freedom of religion?",
+		"answers": [
+			"You can practice any religion, or not practice a religion."
+		],
+		"answerKeys": [
+			["practice", "any", "religion", "not", "practice", "a", "religion"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What is the economic system in the United States?",
+		"answers": [
+			"Capitalist economy",
+			"Market economy"
+		],
+		"answerKeys": [
+			["capitalist", "economy"],
+			["market", "economy"]
+		],
+		"numberAnswerNeed": 1
+	},
+	{
+		"question": "What is the rule of law?",
+		"answers": [
+			"Everyone must follow the law.",
+			"Leaders must obey the law.",
+			"Government must obey the law.",
+			"No one is above the law."
+		],
+		"answerKeys": [
+			["everyone", "must", "follow", "law"],
+			["leaders", "must", "obey", "law"],
+			["government", "must", "obey", "law"],
+			["no one", "above", "law"],
+		],
+		"numberAnswerNeed": 1
+	}
+]
